@@ -1,0 +1,2011 @@
+[
+    {
+        "number_expedition": 1,
+        "name_expedition": "Expedition 1",
+        "ship_starting": [
+            "Soyouz TM-31"
+        ],
+        "ship_return": [
+            "Discovery (STS-102)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/2a0n.png",
+        "date_start": [
+            "31 October 2000"
+        ],
+        "date_end": [
+            "21 March 2001"
+        ],
+        "total_time": "140 days",
+        "astronauts_number": "3",
+        "astronauts": [
+                "William Shepherd (NASA)",
+                "Sergei Krikalev (Roscosmos)",
+                "Yuri Gidzenko (Roscosmos)"
+            ],
+        "picture_crew": "https://zupimages.net/up/22/52/mmqv.jpg"
+    },
+    {
+        "number_expedition": 2,
+        "name_expedition": "Expedition 2",
+        "ship_starting": [
+            "Discovery (STS-102)"
+        ],
+        "ship_return": [
+            "Discovery (STS-105)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/aeco.png",
+        "date_start": [
+            "08 March 2001"
+        ],
+        "date_end": [
+            "22 August 2001"
+        ],
+        "total_time": "167 days",
+        "astronauts_number": "3",
+        "astronauts": [
+                "Yury Usachev (Roscosmos)",
+                "Susan Jane Helms (NASA)",
+                "James Shelton Voss (NASA)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/6grc.jpeg"
+    },
+    {
+        "number_expedition": 3,
+        "name_expedition": "Expedition 3",
+        "ship_starting": [
+            "Discovery (STS-105)"
+        ],
+        "ship_return": [
+            "Endeavour (STS-108)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/l10k.png",
+        "date_start": [
+            "10 August 2001"
+        ],
+        "date_end": [
+            "17 December 2001"
+        ],
+        "total_time": "128 days",
+        "astronauts_number": "3",
+        "astronauts": [
+                "Frank Culbertson (NASA)",
+                "Mikhail Tyurin (Roscosmos)",
+                "Vladimir Dezhurov (Roscosmos)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/0lj7.jpg"
+    },
+    {
+        "number_expedition": 4,
+        "name_expedition": "Expedition 4",
+        "ship_starting": [
+            "Endeavour (STS-108)"
+        ],
+        "ship_return": [
+            "Endeavour(STS-111)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/1dzj.png",
+        "date_start": [
+            "5 December 2001"
+        ],
+        "date_end": [
+            "19 June 2002"
+        ],
+        "total_time": "195 days",
+        "astronauts_number": "3",
+        "astronauts": [
+                "Iouri Onoufrienko (Roscosmos)",
+                "Daniel Wheeler Bursch (NASA)",
+                "Carl Erwin Walz (NASA)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/z5u8.jpg"
+    },
+    {
+        "number_expedition": 5,
+        "name_expedition": "Expedition 5",
+        "ship_starting": [
+            "Endeavour (STS-111)"
+        ],
+        "ship_return": [
+            "Endeavour (STS-113)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/lpav.png",
+        "date_start": [
+            "5 June 2002"
+        ],
+        "date_end": [
+            "7 December 2002"
+        ],
+        "total_time": "184 days",
+        "astronauts_number": "3",
+        "astronauts": [
+                "Valeri Grigorievitch Korzoune (Roscosmos)",
+                "Peggy Whitson (NASA)",
+                "Sergueï Ievguenievitch Trechtchiov (Roscosmos)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/8v4f.jpg"
+    },
+    {
+        "number_expedition": 6,
+        "name_expedition": "Expedition 6",
+        "ship_starting": [
+            "Endeavour (STS-113)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-1)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/6fs1.png",
+        "date_start": [
+            "25 November 2002"
+        ],
+        "date_end": [
+            "4 May 2003"
+        ],
+        "total_time": "161 days",
+        "astronauts_number": "3",
+        "astronauts": [
+                "Kenneth Bowersox (NASA)",
+                "Nikolaï Mikhaïlovitch Boudarine (Roscosmos)",
+                "Donald Roy Pettit (NASA)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/sr3t.jpg"
+    },
+    {
+        "number_expedition": 7,
+        "name_expedition": "Expedition 7",
+        "ship_starting": [
+            "Soyouz (TMA-2)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-2)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/9ol8.png",
+        "date_start": [
+            "26 April 2003"
+        ],
+        "date_end": [
+            "28 October 2003"
+        ],
+        "total_time": "184 days",
+        "astronauts_number": "2",
+        "astronauts": [
+                "Iouri Ivanovitch Malentchenko (Roscosmos)",
+                "Edward Tsang Lu (NASA)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/knew.jpg"
+    },
+    {
+        "number_expedition": 8,
+        "name_expedition": "Expedition 8",
+        "ship_starting": [
+            "Soyouz (TMA-3)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-3)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/hpyw.png",
+        "date_start": [
+            "18 October 2003"
+        ],
+        "date_end": [
+            "30 April 2004"
+        ],
+        "total_time": "194 days",
+        "astronauts_number": "2",
+        "astronauts": [
+                "Alexandre Iourievitch Kaleri (Roscosmos)",
+                "Michael Foale (NASA)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/ne04.jpg"
+    },
+    {
+        "number_expedition": 9,
+        "name_expedition": "Expedition 9",
+        "ship_starting": [
+            "Soyouz (TMA-4)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-4)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/1l4z.png",
+        "date_start": [
+            "19 April 2004"
+        ],
+        "date_end": [
+            "24 October 2004"
+        ],
+        "total_time": "187 days",
+        "astronauts_number": "2",
+        "astronauts": [
+                "Edward Fincke (NASA)",
+                "Guennadi Ivanovitch Padalka (Roscosmos)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/op76.jpg"
+    },
+    {
+        "number_expedition": 10,
+        "name_expedition": "Expedition 10",
+        "ship_starting": [
+            "Soyouz (TMA-5)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-5)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/8429.png",
+        "date_start": [
+            "14 October 2004"
+        ],
+        "date_end": [
+            "24 April 2005"
+        ],
+        "total_time": "192 days",
+        "astronauts_number": "2",
+        "astronauts": [
+                "Leroy Norman Chiao (NASA)",
+                "Salijan Chakirovitch Charipov (Roscosmos)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/g8vk.jpg"
+    },
+    {
+        "number_expedition": 11,
+        "name_expedition": "Expedition 11",
+        "ship_starting": [
+            "Soyouz (TMA-6)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-6)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/djn0.png",
+        "date_start": [
+            "15 April 2005"
+        ],
+        "date_end": [
+            "24 April 2005"
+        ],
+        "total_time": "179 days",
+        "astronauts_number": "2",
+        "astronauts": [
+                "Sergueï Konstantinovitch Krikaliov (Roscosmos)",
+                "John Lynch Phillips (NASA)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/9ows.jpg"
+    },
+    {
+        "number_expedition": 12,
+        "name_expedition": "Expedition 12",
+        "ship_starting": [
+            "Soyouz (TMA-7)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-7)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/bqrb.png",
+        "date_start": [
+            "01 October 2005"
+        ],
+        "date_end": [
+            "08 April 2006"
+        ],
+        "total_time": "189 days",
+        "astronauts_number": "2",
+        "astronauts": [
+                "William Surles McArthur (NASA)",
+                "Valeri Ivanovitch Tokarev (Roscosmos)"
+            ],
+        "picture_crew": "https://zupimages.net/up/23/01/tqzl.jpg"
+    },
+    {
+        "number_expedition": 13,
+        "name_expedition": "Expedition 13",
+        "ship_starting": [
+            "Discovery (STS-121)",
+            "Soyouz (TMA-8)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-8)",
+            "Discovery (STS-121)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/5rck.png",
+        "date_start": [
+            "29 March 2006"
+        ],
+        "date_end": [
+            "28 September 2006",
+            "22 December 2006"
+        ],
+        "total_time": "182 days",
+        "astronauts_number": "3",
+        "astronauts": [
+            "Thomas Reiter (ESA)",
+            "Pavel Vinogradov (Roscosmos)",
+            "Jeffrey Williams (NASA)"  
+        ],
+        "picture_crew": "https://zupimages.net/up/23/01/enll.jpg"
+    },
+    {
+        "number_expedition": 14,
+        "name_expedition": "Expedition 14",
+        "ship_starting": [
+            "Soyouz (TMA-9)",
+            "Discovery (STS-116)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-9)",
+            "Discovery (STS-116)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/rmqo.png",
+        "date_start": [
+            "18 September 2006",
+            "10 December 2006"
+        ],
+        "date_end": [
+            "10 December 2006",
+            "21 April 2007"
+        ],
+        "total_time": "215 days",
+        "astronauts_number": "4",
+        "astronauts": [
+            "Michael López-Alegría (NASA)",
+            "Mikhaïl Tiourine (Roscosmos)",
+            "Jeffrey Williams (NASA)",
+            "Sunita Williams (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/01/vaxq.jpg"
+    },
+    {
+        "number_expedition": 15,
+        "name_expedition": "Expedition 15",
+        "ship_starting": [
+            "Soyouz (TMA-10)",
+            "Discovery (STS-117)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-10)",
+            "Atlantis (STS-120)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/y7m2.png",
+        "date_start": [
+            "07 April 2007",
+            "08 June 2007"
+        ],
+        "date_end": [
+            "21 October 2007",
+            "03 November 2007"
+        ],
+        "total_time": "196 days",
+        "astronauts_number": "3",
+        "astronauts": [
+            "Clayton Anderson (NASA)",
+            "Fiodor Iourtchikhine (Roscosmos)",
+            "Oleg Kotov (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/01/w735.jpg"
+    },
+    {
+        "number_expedition": 16,
+        "name_expedition": "Expedition 16",
+        "ship_starting": [
+            "Soyouz (TMA-11)",
+            "Discovery (STS-120)",
+            "Atlantis (STS-122)",
+            "Endeavour (STS-123)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-11)",
+            "Atlantis (STS-120)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/wvrf.png",
+        "date_start": [
+            "10 October 2007",
+            "23 October 2007",
+            "23 February 2008",
+            "11 March 2008"
+        ],
+        "date_end": [
+            "21 October 2007",
+            "03 November 2007"
+        ],
+        "total_time": "192 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Peggy Whitson (NASA)",
+            "Youri Malenchenko (Roscosmos)",
+            "Clayton Anderson (NASA)",
+            "Daniel Tani (NASA)",
+            "Léopold Eyharts (NASA)",
+            "Garrett Reisman (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/01/7ols.jpg"
+    },
+    {
+        "number_expedition": 17,
+        "name_expedition": "Expedition 17",
+        "ship_starting": [
+            "Endeavour (STS-123)",
+            "Soyouz (TMA-12)",
+            "Discovery (STS-124)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-12)",
+            "Discovery (STS-124)",
+            "Endeavour (STS-126)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/01/lilv.png",
+        "date_start": [
+            "11 March 2008",
+            "08 April 2008",
+            "31 May 2008"
+        ],
+        "date_end": [
+            "14 June 2008",
+            "24 October 2008",
+            "30 November 2008"
+        ],
+        "total_time": "",
+        "astronauts_number": "4",
+        "astronauts": [
+            "Sergueï Volkov (Roscosmos)",
+            "Oleg Kononenko (Roscosmos)",
+            "Garrett Reisman (NASA)",
+            "Gregory Chamitoff (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/01/qhmq.jpg"
+    },
+    {
+        "number_expedition": 18,
+        "name_expedition": "Expedition 18",
+        "ship_starting": [
+            "Discovery (STS-124)",
+            "Soyouz (TMA-13)",
+            "Endeavour (STS-126)",
+            "Discovery (STS-119)"
+        ],
+        "ship_return": [
+            ""
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/7ww4.png",
+        "date_start": [
+            "31 May 2008",
+            "12 October 2008",
+            "14 November 2008 ",
+            "15 March 2009"
+        ],
+        "date_end": [
+            "8 April 2009"
+        ],
+        "total_time": "",
+        "astronauts_number": "5",
+        "astronauts": [
+            "Gregory Chamitoff (NASA)",
+            "Michael Fincke (NASA)",
+            "Iouri Lontchakov (Roscosmos)",
+            "Sandra Magnus (NASA)",
+            "Kōichi Wakata (JAXA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/t8qw.jpg"
+    },
+    {
+        "number_expedition": 19,
+        "name_expedition": "Expedition 19",
+        "ship_starting": [
+            "Soyouz (TMA-14)",
+            "Discovery (STS-119)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-14)",
+            "Endeavour (STS-127)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/fdkd.png",
+        "date_start": [
+            "15 March 2009",
+            "26 March 2009"
+        ],
+        "date_end": [
+            "31 July 2009",
+            "11 October 2009"
+        ],
+        "total_time": "91 days",
+        "astronauts_number": "3",
+        "astronauts": [
+            "Gennady Padalka (Roscosmos)",
+            "Michael Barratt (NASA)",
+            "Kōichi Wakata (JAXA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/b6m2.jpg"
+    },
+    {
+        "number_expedition": 20,
+        "name_expedition": "Expedition 20",
+        "ship_starting": [
+            "Soyouz (TMA-14)",
+            "Endeavour (STS-127)",
+            "Soyouz (TMA-15)",
+            "Discovery (STS-128)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-14)",
+            "Endeavour (STS-128)",
+            "Soyouz (TMA-15)",
+            "Atlantis (STS-129)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/rm7u.png",
+        "date_start": [
+            "26 March 2009"
+        ],
+        "date_end": [
+            ""
+        ],
+        "total_time": "91 days",
+        "astronauts_number": "8",
+        "astronauts": [
+            "Gennady Padalka (Roscosmos)",
+            "Michael Barratt (NASA)",
+            "Kōichi Wakata (JAXA)",
+            "Timothy Kopra (NASA)",
+            "Frank De Winne (ESA)",
+            "Roman Romanenko (Roscosmos)",
+            "Robert Thirsk (CSA)",
+            "Nicole Stott (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/fmgr.jpg"
+    },
+    {
+        "number_expedition": 21,
+        "name_expedition": "Expedition 21",
+        "ship_starting": [
+            "Soyouz (TMA-15)",
+            "Discovery (STS-128)",
+            "Soyouz (TMA-16)"
+        ],
+        "ship_return": [
+            ""
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/dt28.png",
+        "date_start": [
+            "30 October 2009"
+        ],
+        "date_end": [
+            "10 December 2009"
+        ],
+        "total_time": "41 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Frank De Winne (ESA)",
+            "Roman Romanenko (Roscosmos)",
+            "Robert Thirsk (CSA)",
+            "Nicole Stott (NASA)",
+            "Jeffrey Nels Williams (NASA)",
+            "Maxime Souraïev (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/0rke.jpg"
+    },
+    {
+        "number_expedition": 22,
+        "name_expedition": "Expedition 22",
+        "ship_starting": [
+            "Soyouz (TMA-16)",
+            "Soyouz (TMA-17)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-16)",
+            "Soyouz (TMA-17)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/j3ga.png",
+        "date_start": [
+            "30 November 2009",
+            "20 December 2009"
+        ],
+        "date_end": [
+            "18 March 2010",
+            "02 June 2010"
+        ],
+        "total_time": "",
+        "astronauts_number": "5",
+        "astronauts": [
+            "Jeffrey Nels Williams (NASA)",
+            "Maxime Souraïev (Roscosmos)",
+            "Oleg Kotov (Roscosmos)",
+            "Soichi Noguchi (JAXA)",
+            "Timothy Creamer (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/05kg.jpg"
+    },
+    {
+        "number_expedition": 23,
+        "name_expedition": "Expedition 23",
+        "ship_starting": [
+            "Soyouz (TMA-17)",
+            "Soyouz (TMA-18)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-17)",
+            "Soyouz (TMA-18)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/5a6s.png",
+        "date_start": [
+            "20 December 2009",
+            "02 April 2010"
+        ],
+        "date_end": [
+            "02 June 2010",
+            "25 October 2010"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Oleg Kotov (Roscosmos)",
+            "Soichi Noguchi (JAXA)",
+            "Timothy Creamer (NASA)",
+            "Aleksandr Skvortsov (Roscosmos)",
+            "Mikhaïl Kornienko (Roscosmos)",
+            "Tracy Caldwell (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/lx0w.jpg"
+    },
+    {
+        "number_expedition": 24,
+        "name_expedition": "Expedition 24",
+        "ship_starting": [
+            "Soyouz (TMA-18)",
+            "Soyouz (TMA-19)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-18)",
+            "Soyouz (TMA-19)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/v9hb.png",
+        "date_start": [
+            "01 June 2010"
+        ],
+        "date_end": [
+            "25 September 2010",
+            "26 November 2010"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Aleksandr Skvortsov (Roscosmos)",
+            "Mikhaïl Kornienko (Roscosmos)",
+            "Tracy Caldwell (NASA)",
+            "Fiodor Iourtchikhine (Roscosmos)",
+            "Shannon Walker (NASA)",
+            "Douglas Harry Wheelock (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/afit.jpg"
+    },
+    {
+        "number_expedition": 25,
+        "name_expedition": "Expedition 25",
+        "ship_starting": [
+            "Soyouz (TMA-19)",
+            "Soyouz (TMA-01M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-19)",
+            "Soyouz (TMA-01M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/gtdj.png",
+        "date_start": [
+            "25 September 2010"
+        ],
+        "date_end": [
+            "26 November 2010",
+            "17 March 2011"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Douglas Harry Wheelock (NASA)",
+            "Shannon Walker (NASA)",
+            "Fiodor Iourtchikhine (Roscosmos)",
+            "Scott Joseph Kelly (NASA)",
+            "Alexander Kaleri (Roscosmos)",
+            "Oleg Skripochka (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/ozps.jpg"
+    },
+    {
+        "number_expedition": 26,
+        "name_expedition": "Expedition 26",
+        "ship_starting": [
+            "Soyouz (TMA-01M)",
+            "Soyouz (TMA-20)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-01M)",
+            "Soyouz (TMA-20)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/i6nn.png",
+        "date_start": [
+            "26 November 2010"
+        ],
+        "date_end": [
+            "16 March 2011",
+            "24 May 2011"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Scott Joseph Kelly (NASA)",
+            "Alexander Kaleri (Roscosmos)",
+            "Oleg Skripochka (Roscosmos)",
+            "Dmitri Kondratiev (Roscosmos)",
+            "Catherine Coleman (NASA)",
+            "Paolo Nespoli (ESA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/1ya0.jpg"
+    },
+    {
+        "number_expedition": 27,
+        "name_expedition": "Expedition 27",
+        "ship_starting": [
+            "Soyouz (TMA-20)",
+            "Soyouz (TMA-21)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-20)",
+            "Soyouz (TMA-21)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/gxgt.png",
+        "date_start": [
+            "16 March 2011"
+        ],
+        "date_end": [
+            "24 May 2011",
+            "16 September 2011"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Dmitri Kondratiev (Roscosmos)",
+            "Catherine Coleman (NASA)",
+            "Paolo Nespoli (ESA)",
+            "Andreï Borissenko (Roscosmos)",
+            "Aleksandr Samokoutiaïev (Roscosmos)",
+            "Ronald John Garan (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/571k.jpg"
+    },
+    {
+        "number_expedition": 28,
+        "name_expedition": "Expedition 28",
+        "ship_starting": [
+            "Soyouz (TMA-21)",
+            "Soyouz (TMA-02M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-21)",
+            "Soyouz (TMA-02M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/7y0e.png",
+        "date_start": [
+            "23 May 2011"
+        ],
+        "date_end": [
+            "16 September 2011",
+            "22 November 2011"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Andreï Borissenko (Roscosmos)",
+            "Aleksandr Samokoutiaïev (Roscosmos)",
+            "Ronald John Garan (NASA)",
+            "Sergueï Volkov (Roscosmos)",
+            "Michael Fossum (NASA)",
+            "Satoshi Furukawa (JAXA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/i6kh.jpg"
+    },
+    {
+        "number_expedition": 29,
+        "name_expedition": "Expedition 29",
+        "ship_starting": [
+            "Soyouz (TMA-02M)",
+            "Soyouz (TMA-22)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-02M)",
+            "Soyouz (TMA-22)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/ng7f.png",
+        "date_start": [
+            "16 September 2011"
+        ],
+        "date_end": [
+            "22 November 2011",
+            "27 April 2012"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Michael Fossum (NASA)",
+            "Satoshi Furukawa (JAXA)",
+            "Sergueï Volkov (Roscosmos)",
+            "Anton Shkaplerov (Roscosmos)",
+            "Anatoli Ivanishin (Roscosmos)",
+            "Dan Burbank (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/ii76.jpg"
+    },
+    {
+        "number_expedition": 30,
+        "name_expedition": "Expedition 30",
+        "ship_starting": [
+            "Soyouz (TMA-22)",
+            "Soyouz (TMA-03M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-22)",
+            "Soyouz (TMA-03M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/oybi.png",
+        "date_start": [
+            "21 novembre 2011"
+        ],
+        "date_end": [
+            "27 April 2012",
+            "01 July 2012"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Dan Burbank (NASA)",
+            "Anton Shkaplerov (Roscosmos)",
+            "Anatoli Ivanishin (Roscosmos)",
+            "Oleg Kononenko (Roscosmos)",
+            "André Kuipers (ESA)",
+            "Donald Pettit (NASA)" 
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/5rm2.jpg"
+    },
+    {
+        "number_expedition": 31,
+        "name_expedition": "Expedition 31",
+        "ship_starting": [
+            "Soyouz (TMA-03M)",
+            "Soyouz (TMA-04M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-03M)",
+            "Soyouz (TMA-04M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/3325.png",
+        "date_start": [
+            "27 April 2012"
+        ],
+        "date_end": [
+            "01 July 2012",
+            "17 September 2012"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Oleg Kononenko (Roscosmos)",
+            "André Kuipers (ESA)",
+            "Donald Pettit (NASA)",
+            "Joseph Michael Acaba (NASA)",
+            "Gennady Padalka (Roscosmos)",
+            "Sergueï Revine (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/uv32.jpg"
+    },
+    {
+        "number_expedition": 32,
+        "name_expedition": "Expedition 32",
+        "ship_starting": [
+            "Soyouz (TMA-04M)",
+            "Soyouz (TMA-05M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-04M)",
+            "Soyouz (TMA-05M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/p5nt.png",
+        "date_start": [
+            "01 July 2012"
+        ],
+        "date_end": [
+            "17 September 2012",
+            "19 November 2012"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Gennady Padalka (Roscosmos)",
+            "Joseph Michael Acaba (NASA)",
+            "Sergueï Revine (Roscosmos)",
+            "Sunita Williams (NASA)",
+            "Yuri Malenchenko (Roscosmos)",
+            "Akihiko Hoshide (JAXA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/n6gd.jpg"
+    },
+    {
+        "number_expedition": 33,
+        "name_expedition": "Expedition 33",
+        "ship_starting": [
+            "Soyouz (TMA-05M)",
+            "Soyouz (TMA-06M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-05M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/xvbr.png",
+        "date_start": [
+            "16 September 2012"
+        ],
+        "date_end": [
+            "19 November 2012"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Sunita Williams (NASA)",
+            "Yuri Malenchenko (Roscosmos)",
+            "Akihiko Hoshide (JAXA)",
+            "Kevin Anthony Ford (NASA)",
+            "Oleg Novitskiy (Roscosmos)",
+            "Evgeny Tarelkin (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/eomn.jpg"
+    },
+    {
+        "number_expedition": 34,
+        "name_expedition": "Expedition 34",
+        "ship_starting": [
+            "Soyouz (TMA-06M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-06M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/3vle.png",
+        "date_start": [
+            "18 December 2012"
+        ],
+        "date_end": [
+            "15 March 2013"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Kevin Anthony Ford (NASA)",
+            "Oleg Novitskiy (Roscosmos)",
+            "Evgeny Tarelkin (Roscosmos)",
+            "Thomas Marshburn (NASA)",
+            "Chris Hadfield (CSA)",
+            "Roman Romanenko (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/iesz.jpg"
+    },
+    {
+        "number_expedition": 35,
+        "name_expedition": "Expedition 35",
+        "ship_starting": [
+            "Soyouz (TMA-07M)",
+            "Soyouz (TMA-08M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-07M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/qpu8.png",
+        "date_start": [
+            "13 March 2013"
+        ],
+        "date_end": [
+            "13 May 2013"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Chris Hadfield (CSA)",
+            "Thomas Marshburn (NASA)",
+            "Roman Romanenko (Roscosmos)",
+            "Christopher Cassidy (NASA)",
+            "Pavel Vinogradov (Roscosmos)",
+            "Alexander Misurkin (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/5fxe.jpg"
+    },
+    {
+        "number_expedition": 36,
+        "name_expedition": "Expedition 36",
+        "ship_starting": [
+            "Soyouz (TMA-08M)",
+            "Soyouz (TMA-09M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-08M)",
+            "Soyouz (TMA-09M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/lfqd.png",
+        "date_start": [
+            "13 May 2013"
+        ],
+        "date_end": [
+            "10 September 2013"
+        ],
+        "total_time": "",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Pavel Vinogradov (Roscosmos)",
+            "Alexander Misurkin (Roscosmos)",
+            "Christopher Cassidy (NASA)",
+            "Karen Nyberg (NASA)",
+            "Fyodor Yurchikhin (Roscosmos)",
+            "Luca Parmitano (ESA)"
+
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/lfvl.jpg"
+    },
+    {
+        "number_expedition": 37,
+        "name_expedition": "Expedition 37",
+        "ship_starting": [
+            "Soyouz (TMA-09M)",
+            "Soyouz (TMA-10M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-09M)",
+            "Soyouz (TMA-10M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/qzv1.png",
+        "date_start": [
+            "10 September 2013"
+        ],
+        "date_end": [
+            "10 November 2013"
+        ],
+        "total_time": "2 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Fyodor Yurchikhin (Roscosmos)",
+            "Karen Nyberg (NASA)",
+            "Luca Parmitano (ESA)",
+            "Oleg Kotov (Roscosmos)",
+            "Sergey Ryazansky (Roscosmos)",
+            "Michael Hopkins (NASA)"
+
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/0nb7.jpg"
+    },
+    {
+        "number_expedition": 38,
+        "name_expedition": "Expedition 38",
+        "ship_starting": [
+            "Soyouz (TMA-10M)",
+            "Soyouz (TMA-11M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-10M)",
+            "Soyouz (TMA-11M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/saol.png",
+        "date_start": [
+            "10 November 2013"
+        ],
+        "date_end": [
+            "10 March 2014"
+        ],
+        "total_time": "5 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Oleg Kotov (Roscosmos)",
+            "Sergey Ryazansky (Roscosmos)",
+            "Michael Hopkins (NASA)",
+            "Koichi Wakata (JAXA)",
+            "Richard Mastracchio (NASA)",
+            "Mikhaïl Tiourine (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/9f7p.jpg"
+    },
+    {
+        "number_expedition": 39,
+        "name_expedition": "Expedition 39",
+        "ship_starting": [
+            "Soyouz (TMA-11M)",
+            "Soyouz (TMA-12M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-11M)",
+            "Soyouz (TMA-12M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/xjt3.png",
+        "date_start": [
+            "10 March 2014"
+        ],
+        "date_end": [
+            "13 May 2014"
+        ],
+        "total_time": "2 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Koichi Wakata (JAXA)",
+            "Richard Mastracchio (NASA)",
+            "Mikhaïl Tiourine (Roscosmos)",
+            "Aleksandr Skvortsov (Roscosmos)",
+            "Oleg Artemiev (Roscosmos)",
+            "Steven Swanson (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/hkpg.jpg"
+    },
+    {
+        "number_expedition": 40,
+        "name_expedition": "Expedition 40",
+        "ship_starting": [
+            "Soyouz (TMA-12M)",
+            "Soyouz (TMA-13M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-12M)",
+            "Soyouz (TMA-13M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/jp9t.png",
+        "date_start": [
+            "13 May 2014"
+        ],
+        "date_end": [
+            "10 September 2014"
+        ],
+        "total_time": "4 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Steven Swanson (NASA)",
+            "Aleksandr Skvortsov (Roscosmos)",
+            "Oleg Artemiev (Roscosmos)",
+            "Gregory Reid Wiseman (NASA)",
+            "Maxime Souraïev (Roscosmos)",
+            "Alexander Gerst (ESA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/sywg.jpg"
+    },
+    {
+        "number_expedition": 41,
+        "name_expedition": "Expedition 41",
+        "ship_starting": [
+            "Soyouz (TMA-13M)",
+            "Soyouz (TMA-14M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-13M)",
+            "Soyouz (TMA-14M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/6zlj.png",
+        "date_start": [
+            "10 September 2014"
+        ],
+        "date_end": [
+            "10 November 2014"
+        ],
+        "total_time": "2 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Maxime Souraïev (Roscosmos)",
+            "Gregory Reid Wiseman (NASA)",
+            "Alexander Gerst (ESA)",
+            "Aleksandr Samokoutiaïev (Roscosmos)",
+            "Yelena Serova (Roscosmos)",
+            "Barry Wilmore (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/g7no.jpg"
+    },
+    {
+        "number_expedition": 42,
+        "name_expedition": "Expedition 42",
+        "ship_starting": [
+            "Soyouz (TMA-14M)",
+            "Soyouz (TMA-15M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-14M)",
+            "Soyouz (TMA-15M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/ul2s.png",
+        "date_start": [
+            "10 November 2014"
+        ],
+        "date_end": [
+            "11 March 2015"
+        ],
+        "total_time": "4 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Barry Wilmore (NASA)",
+            "Aleksandr Samokoutiaïev (Roscosmos)",
+            "Yelena Serova (Roscosmos)",
+            "Anton Chkaplerov (Roscosmos)",
+            "Samantha Cristoforetti (ESA)",
+            "Terry Virts (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/famy.jpg"
+    },
+    {
+        "number_expedition": 43,
+        "name_expedition": "Expedition 43",
+        "ship_starting": [
+            "Soyouz (TMA-15M)",
+            "Soyouz (TMA-16M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-15M)",
+            "Soyouz (TMA-16M)",
+            "Soyouz (TMA-18M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/50it.png",
+        "date_start": [
+            "11 March 2015"
+        ],
+        "date_end": [
+            "11 June 2015"
+        ],
+        "total_time": "3 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Terry Virts (NASA)",
+            "Anton Chkaplerov (Roscosmos)",
+            "Samantha Cristoforetti (ESA)",
+            "Guennadi Padalka (Roscosmos)",
+            "Mikhaïl Kornienko (Roscosmos)",
+            "Scott Kelly (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/wcdu.jpg"
+    },
+    {
+        "number_expedition": 44,
+        "name_expedition": "Expedition 44",
+        "ship_starting": [
+            "Soyouz (TMA-15M)",
+            "Soyouz (TMA-16M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-16M)",
+            "Soyouz (TMA-17M)",
+            "Soyouz (TMA-18M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/xpca.png",
+        "date_start": [
+            "11 June 2015"
+        ],
+        "date_end": [
+            "11 September 2015"
+        ],
+        "total_time": "3 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Guennadi Padalka (Roscosmos)",
+            "Mikhaïl Kornienko (Roscosmos)",
+            "Scott Kelly (NASA)",
+            "Oleg Kononenko (Roscosmos)",
+            "Kimiya Yui (JAXA)",
+            "Kjell Lindgren (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/wba9.jpg"
+    },
+    {
+        "number_expedition": 45,
+        "name_expedition": "Expedition 45",
+        "ship_starting": [
+            "Soyouz (TMA-16M)",
+            "Soyouz (TMA-17M)",
+            "Soyouz (TMA-18M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-17M)",
+            "Soyouz (TMA-18M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/renz.png",
+        "date_start": [
+            "11 September 2015"
+        ],
+        "date_end": [
+            "11 December 2015"
+        ],
+        "total_time": "3 months",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Scott Kelly (NASA)",
+            "Mikhaïl Kornienko (Roscosmos)",
+            "Oleg Kononenko (Roscosmos)",
+            "Kimiya Yui (JAXA)",
+            "Kjell Lindgren (NASA)",
+            "Sergueï Volkov (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/5nja.jpg"
+    },
+    {
+        "number_expedition": 46,
+        "name_expedition": "Expedition 46",
+        "ship_starting": [
+            "Soyouz (TMA-16M)",
+            "Soyouz (TMA-18M)",
+            "Soyouz (TMA-19M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-18M)",
+            "Soyouz (TMA-19M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/wqtd.png",
+        "date_start": [
+            "11 December 2015"
+        ],
+        "date_end": [
+            "01 March 2016"
+        ],
+        "total_time": "2 months 20 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Scott Kelly (NASA)",
+            "Mikhaïl Kornienko (Roscosmos)",
+            "Sergueï Volkov (Roscosmos)",
+            "Iouri Malentchenko (Roscosmos)",
+            "Timothy Peake (ESA)",
+            "Timothy Kopra (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/ys05.jpg"
+    },
+    {
+        "number_expedition": 47,
+        "name_expedition": "Expedition 47",
+        "ship_starting": [
+            "Soyouz (TMA-19M)",
+            "Soyouz (TMA-20M)"
+        ],
+        "ship_return": [
+            "Soyouz (TMA-19M)",
+            "Soyouz (TMA-20M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/xtqa.png",
+        "date_start": [
+            "01 March 2016"
+        ],
+        "date_end": [
+            "05 June 2016"
+        ],
+        "total_time": "3 months 4 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Timothy Kopra (NASA)",
+            "Timothy Peake (ESA)",
+            "Iouri Malentchenko (Roscosmos)",
+            "Alekseï Ovtchinine (Roscosmos)",
+            "Oleg Skripotchka (Roscosmos)",
+            "Jeffrey Williams (NASA)"  
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/l400.jpg"
+    },
+    {
+        "number_expedition": 48,
+        "name_expedition": "Expedition 48",
+        "ship_starting": [
+            "Soyouz (MS-01)",
+            "Soyouz (TMA-20M)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-01)",
+            "Soyouz (TMA-20M)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/c7o9.png",
+        "date_start": [
+            "18 June 2016"
+        ],
+        "date_end": [
+            "06 September 2016"
+        ],
+        "total_time": "2 months 18 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Jeffrey Williams (NASA)",
+            "Alekseï Ovtchinine (Roscosmos)",
+            "Oleg Skripotchka (Roscosmos)",
+            "Kathleen Rubins (NASA)",
+            "Anatoli Ivanichine (Roscosmos)",
+            "Takuya Onishi (JAXA)"   
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/fxqg.jpg"
+    },
+    {
+        "number_expedition": 49,
+        "name_expedition": "Expedition 49",
+        "ship_starting": [
+            "Soyouz (MS-01)",
+            "Soyouz (MS-02)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-01)",
+            "Soyouz (MS-02)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/hgkt.png",
+        "date_start": [
+            "07 September 2016"
+        ],
+        "date_end": [
+            "30 October 2016"
+        ],
+        "total_time": "1 month 23 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Anatoli Ivanichine (Roscosmos)",
+            "Kathleen Rubins (NASA)",
+            "Takuya Onishi (JAXA)",
+            "Robert Kimbrough (NASA)",
+            "Andreï Borissenko (Roscosmos)",
+            "Sergeï Ryzhikov (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/p217.jpg"
+    },
+    {
+        "number_expedition": 50,
+        "name_expedition": "Expedition 50",
+        "ship_starting": [
+            "Soyouz (MS-02)",
+            "Soyouz (MS-03)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-02)",
+            "Soyouz (MS-03)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/2nwn.png",
+        "date_start": [
+            "30 October 2016"
+        ],
+        "date_end": [
+            "10 April 2017"
+        ],
+        "total_time": "4 months 10 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Robert Kimbrough (NASA)",
+            "Sergeï Ryzhikov (Roscosmos)",
+            "Andreï Borissenko (Roscosmos)",
+            "Peggy Whitson (NASA)",
+            "Oleg Novitski (Roscosmos)",
+            "Thomas Pesquet (ESA)"  
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/sb69.jpg"
+    },
+    {
+        "number_expedition": 51,
+        "name_expedition": "Expedition 51",
+        "ship_starting": [
+            "Soyouz (MS-03)",
+            "Soyouz (MS-04)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-03)",
+            "Soyouz (MS-04)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/5bfx.png",
+        "date_start": [
+            "11 April 2017"
+        ],
+        "date_end": [
+            "02 June 2017"
+        ],
+        "total_time": "1 month 21 days",
+        "astronauts_number": "5",
+        "astronauts": [
+            "Peggy Whitson (NASA)",
+            "Oleg Novitski (Roscosmos)",
+            "Thomas Pesquet (ESA)",
+            "Fiodor Iourtchikhine (Roscosmos)",
+            "Jack Fischer (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/p5mn.jpg"
+    },
+    {
+        "number_expedition": 52,
+        "name_expedition": "Expedition 52",
+        "ship_starting": [
+            "Soyouz (MS-04)",
+            "Soyouz (MS-05)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-04)",
+            "Soyouz (MS-05)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/14ad.png",
+        "date_start": [
+            "02 June 2017"
+        ],
+        "date_end": [
+            "03 September 2017"
+        ],
+        "total_time": "3 months 1 day",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Fiodor Iourtchikhine (Roscosmos)",
+            "Jack Fischer (NASA)",
+            "Peggy Whitson (NASA)",
+            "Randolph Bresnik (NASA)",
+            "Serguei Riazanski (Roscosmos)",
+            "Paolo Nespoli (ESA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/5gdh.jpg"
+    },
+    {
+        "number_expedition": 53,
+        "name_expedition": "Expedition 53",
+        "ship_starting": [
+            "Soyouz (MS-05)",
+            "Soyouz (MS-06)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-05)",
+            "Soyouz (MS-06)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/ph8q.png",
+        "date_start": [
+            "03 September 2017"
+        ],
+        "date_end": [
+            "14 December 2017"
+        ],
+        "total_time": "3 months 11 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Randolph Bresnik (NASA)",
+            "Serguei Riazanski (Roscosmos)",
+            "Paolo Nespoli (ESA)",
+            "Alexandre Missourkine (Roscosmos)",
+            "Mark Vande Hei (NASA)",
+            "Joseph Acaba (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/rbra.jpg"
+    },
+    {
+        "number_expedition": 54,
+        "name_expedition": "Expedition 54",
+        "ship_starting": [
+            "Soyouz (MS-06)",
+            "Soyouz (MS-07)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-06)",
+            "Soyouz (MS-07)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/f0ax.png",
+        "date_start": [
+            "14 December 2017"
+        ],
+        "date_end": [
+            "27 February 2018"
+        ],
+        "total_time": "2 months 13 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Alexandre Missourkine (Roscosmos)",
+            "Mark Vande Hei (NASA)",
+            "Joseph Acaba (NASA)",
+            "Anton Shkaplerov (Roscosmos)",
+            "Scott Tingle (NASA)",
+            "Norishige Kanai (JAXA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/4fup.jpg"
+    },
+    {
+        "number_expedition": 55,
+        "name_expedition": "Expedition 55",
+        "ship_starting": [
+            "Soyouz (MS-07)",
+            "Soyouz (MS-08)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-07)",
+            "Soyouz (MS-08)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/h7qe.png",
+        "date_start": [
+            "27 February 2018"
+        ],
+        "date_end": [
+            "03 June 2018"
+        ],
+        "total_time": "2 months 6 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Anton Shkaplerov (Roscosmos)",
+            "Scott Tingle (NASA)",
+            "Norishige Kanai (JAXA)",
+            "Andrew Feustel (NASA)",
+            "Oleg Artemiev (Roscosmos)",
+            "Richard Rick Arnold (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/6gn3.jpg"
+    },
+    {
+        "number_expedition": 56,
+        "name_expedition": "Expedition 56",
+        "ship_starting": [
+            "Soyouz (MS-08)",
+            "Soyouz (MS-09)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-08)",
+            "Soyouz (MS-09)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/9wca.png",
+        "date_start": [
+            "03 June 2018"
+        ],
+        "date_end": [
+            "04 October 2018"
+        ],
+        "total_time": "4 months 1 day",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Andrew Feustel (NASA)",
+            "Oleg Artemiev (Roscosmos)",
+            "Richard Rick Arnold (NASA)",
+            "Alexander Gerst (ESA)",
+            "Serena Maria Auñón-Chancellor (NASA)",
+            "Sergey Prokopyev (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/o4u3.jpg"
+    },
+    {
+        "number_expedition": 57,
+        "name_expedition": "Expedition 57",
+        "ship_starting": [
+            "Soyouz (MS-09)",
+            "Soyouz (MS-11)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-09)",
+            "Soyouz (MS-11)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/mdp3.png",
+        "date_start": [
+            "04 October 2018"
+        ],
+        "date_end": [
+            "20 December 2018"
+        ],
+        "total_time": "2 months 16 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Alexander Gerst (ESA)",
+            "Serena Maria Auñón-Chancellor (NASA)",
+            "Sergey Prokopyev (Roscosmos)",
+            "Oleg Kononenko (Roscosmos)",
+            "David Saint-Jacques (CSA)",
+            "Anne McClain (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/4w2n.jpg"
+    },
+    {
+        "number_expedition": 58,
+        "name_expedition": "Expedition 58",
+        "ship_starting": [
+            "Soyouz (MS-11)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-11)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/ta81.png",
+        "date_start": [
+            "20 December 2018"
+        ],
+        "date_end": [
+            "15 March 2019"
+        ],
+        "total_time": "2 months 25 days",
+        "astronauts_number": "3",
+        "astronauts": [
+            "Oleg Kononenko (Roscosmos)",
+            "David Saint-Jacques (CSA)",
+            "Anne McClain (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/qlce.jpg"
+    },
+    {
+        "number_expedition": 59,
+        "name_expedition": "Expedition 59",
+        "ship_starting": [
+            "Soyouz (MS-11)",
+            "Soyouz (MS-12)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-11)",
+            "Soyouz (MS-12)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/wsw6.png",
+        "date_start": [
+            "15 March 2019"
+        ],
+        "date_end": [
+            "24 June 2019"
+        ],
+        "total_time": "3 months 9 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Oleg Kononenko (Roscosmos)",
+            "David Saint-Jacques (CSA)",
+            "Anne McClain (NASA)",
+            "Alekseï Ovtchinine (Roscosmos)",
+            "Nick Hague (NASA)",
+            "Christina Koch (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/vlt5.jpg"
+    },
+    {
+        "number_expedition": 60,
+        "name_expedition": "Expedition 60",
+        "ship_starting": [
+            "Soyouz (MS-12)",
+            "Soyouz (MS-13)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-12)",
+            "Soyouz (MS-13)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/urt0.png",
+        "date_start": [
+            "24 June 2019"
+        ],
+        "date_end": [
+            "03 October 2019"
+        ],
+        "total_time": "3 months 9 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Alekseï Ovtchinine (Roscosmos)",
+            "Nick Hague (NASA)",
+            "Christina Koch (NASA)",
+            "Aleksandr Skvortsov",
+            "Luca Parmitano (ESA)",
+            "Andrew Morgan (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/m5fe.jpg"
+    },
+    {
+        "number_expedition": 61,
+        "name_expedition": "Expedition 61",
+        "ship_starting": [
+            "Soyouz (MS-12)",
+            "Soyouz (MS-13)",
+            "Soyouz (MS-15)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-13)",
+            "Soyouz (MS-15)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/odkj.png",
+        "date_start": [
+            "03 October 2019"
+        ],
+        "date_end": [
+            "06 February 2020"
+        ],
+        "total_time": "4 months 3 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Luca Parmitano (ESA)",
+            "Aleksandr Skvortsov",
+            "Andrew Morgan (NASA)",
+            "Christina Koch (NASA)",
+            "Oleg Skripotchka (Roscosmos)",
+            "Jessica Meir (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/d6h7.jpg"
+    },
+    {
+        "number_expedition": 62,
+        "name_expedition": "Expedition 62",
+        "ship_starting": [
+            "Soyouz (MS-13)",
+            "Soyouz (MS-15)",
+            "Soyouz (MS-16)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-15)",
+            "Soyouz (MS-16)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/l9zb.png",
+        "date_start": [
+            "06 February 2020"
+        ],
+        "date_end": [
+            "17 April 2020"
+        ],
+        "total_time": "2 months 11 days",
+        "astronauts_number": "6",
+        "astronauts": [
+            "Oleg Skripotchka (Roscosmos)",
+            "Jessica Meir (NASA)",
+            "Andrew Morgan (NASA)",
+            "Anatoli Ivanichine (Roscosmos)",
+            "Ivan Vagner (Roscosmos)",
+            "Christopher Cassidy (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/99mu.jpg"
+    },
+    {
+        "number_expedition": 63,
+        "name_expedition": "Expedition 63",
+        "ship_starting": [
+            "Soyouz (MS-16)",
+            "SpaceX (Demo-2)",
+            "Soyouz (MS-17)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-16)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/mfsx.png",
+        "date_start": [
+            "17 April 2020"
+        ],
+        "date_end": [
+            "21 October 2020"
+        ],
+        "total_time": "6 months 4 days",
+        "astronauts_number": "8",
+        "astronauts": [
+            "Christopher Cassidy (NASA)",
+            "Anatoli Ivanichine (Roscosmos)",
+            "Ivan Vagner (Roscosmos)",
+            "Douglas Hurley (NASA)",
+            "Robert Behnken (NASA)",
+            "Sergey Ryzhikov (Roscosmos)",
+            "Sergueï Koud-Skvertchkov (Roscosmos)",
+            "Kate Rubins (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/t5tj.jpg"
+    },
+    {
+        "number_expedition": 64,
+        "name_expedition": "Expedition 64",
+        "ship_starting": [
+            "Soyouz (MS-17)",
+            "SpaceX (Crew-1)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-17)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/fad9.png",
+        "date_start": [
+            "21 October 2020"
+        ],
+        "date_end": [
+            "16 April 2021"
+        ],
+        "total_time": "5 months 25 days",
+        "astronauts_number": "7",
+        "astronauts": [
+            "Sergey Ryzhikov (Roscosmos)",
+            "Kathleen Rubins (NASA)",
+            "Sergueï Koud-Skvertchkov (Roscosmos)",
+            "Michael Hopkins (NASA)",
+            "Victor Glover (NASA)",
+            "Shannon Walker (NASA)",
+            "Soichi Noguchi (JAXA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/vwhw.jpg"
+    },
+    {
+        "number_expedition": 65,
+        "name_expedition": "Expedition 65",
+        "ship_starting": [
+            "SpaceX (Crew-2)",
+            "Soyouz (MS-18)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-17)",
+            "SpaceX (Crew-1)",
+            "Soyouz (MS-18)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/xx2y.png",
+        "date_start": [
+            "17 April 2021"
+        ],
+        "date_end": [
+            "17 October 2021"
+        ],
+        "total_time": "6 months",
+        "astronauts_number": "7",
+        "astronauts": [
+            "Akihiko Hoshide (JAXA)",
+            "Shane Kimbrough (NASA)",
+            "Megan McArthur (NASA)",
+            "Thomas Pesquet (ESA)",
+            "Oleg Novitski (Roscosmos)",
+            "Pyotr Dubrov (Roscosmos)",
+            "Mark Thomas Vande Hei (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/r4j2.jpg"
+    },
+    {
+        "number_expedition": 66,
+        "name_expedition": "Expedition 66",
+        "ship_starting": [
+            "SpaceX (Crew-2)",
+            "Soyouz (MS-18)",
+            "Soyouz (MS-19)",
+            "SpaceX (Crew-3)"
+        ],
+        "ship_return": [
+            "SpaceX (Crew-2)",
+            "Soyouz (MS-19)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/o1ny.png",
+        "date_start": [
+            "17 October 2021"
+        ],
+        "date_end": [
+            "30 March 2022"
+        ],
+        "total_time": "5 months 14 days",
+        "astronauts_number": "7",
+        "astronauts": [
+            "Anton Shkaplerov (Roscosmos)",
+            "Pyotr Dubrov (Roscosmos)",
+            "Mark Thomas Vande Hei (NASA)",
+            "Raja Chari (NASA)",
+            "Thomas Marshburn (NASA)",
+            "Kayla Barron (NASA)",
+            "Matthias Maurer (ESA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/9uwm.jpg"
+    },
+    {
+        "number_expedition": 67,
+        "name_expedition": "Expedition 67",
+        "ship_starting": [
+            "SpaceX (Crew-3)",
+            "Soyouz (MS-21)",
+            "SpaceX (Crew-4)",
+            "Soyouz (MS-22)"
+        ],
+        "ship_return": [
+            "Soyouz (MS-21)",
+            "SpaceX (Crew-3)"
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/ysbk.png",
+        "date_start": [
+            "30 March 2022"
+        ],
+        "date_end": [
+            "29 September 2022"
+        ],
+        "total_time": "5 months 14 days",
+        "astronauts_number": "7",
+        "astronauts": [
+            "Oleg Artemiev (Roscosmos)",
+            "Denis Matveïev (Roscosmos)",
+            "Sergueï Korsakov (Roscosmos)",
+            "Kjell Lindgren (NASA)",
+            "Robert Hines (NASA)",
+            "Samantha Cristoforetti (ESA)",
+            "Jessica Watkins (NASA)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/ha95.jpg"
+    },
+    {
+        "number_expedition": 68,
+        "name_expedition": "Expedition 68",
+        "ship_starting": [
+            "SpaceX (Crew-5)",
+            "Soyouz (MS-22)"
+        ],
+        "ship_return": [
+            ""
+        ],
+        "patch_expedition": "https://zupimages.net/up/23/02/bxyt.png",
+        "date_start": [
+            "29 September 2022"
+        ],
+        "date_end": [
+            "Mars 2023"
+        ],
+        "total_time": "",
+        "astronauts_number": "7",
+        "astronauts": [
+            "Sergueï Prokopiev (Roscosmos)",
+            "Dimitri Peteline (Roscosmos)",
+            "Francisco Rubio (NASA)",
+            "Nicole Mann (NASA)",
+            "Josh Cassada (NASA)",
+            "Kōichi Wakata (JAXA)",
+            "Anna Kikina (Roscosmos)"
+        ],
+        "picture_crew": "https://zupimages.net/up/23/02/b99n.jpg"
+    }
+]
